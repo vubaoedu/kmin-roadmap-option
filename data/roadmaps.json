@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "code": "F1",
+        "name": "Front-end Engineering dành cho người mới bắt đầu",
+        "subject_list": "PB, TB, TA, FB, TW, FR",
+        "note": "Dành cho người chưa có căn bản về lập trình"
+    },
+    {
+        "id": 2,
+        "code": "F2",
+        "name": "Front-end Engineering toàn tập",
+        "subject_list": "TB, TA, FB, TW, FR",
+        "note": "Dành cho người đã biết lập trình cơ bản, nhưng chưa biết TS/JS"
+    },
+    {
+        "id": 3,
+        "code": "F3",
+        "name": "Front-end Engineering nâng cao",
+        "subject_list": "TW, FR",
+        "note": "Dành cho người đã làm được giao diện web, đã biết TS/JS cơ bản"
+    },
+    {
+        "id": 4,
+        "code": "S1",
+        "name": "Software Engineering nền tảng",
+        "subject_list": "PB, TB, TA",
+        "note": "Dành cho người muốn học nền tảng trước khi chọn hướng chuyên môn"
+    },
+    {
+        "id": 5,
+        "code": "B1",
+        "name": "Back-end Engineering dành cho người mới bắt đầu",
+        "subject_list": "PB, TB, TA, SQ, TW, BN",
+        "note": "Dành cho người chưa có căn bản về lập trình"
+    },
+    {
+        "id": 6,
+        "code": "B2",
+        "name": "Back-end Engineering toàn tập",
+        "subject_list": "TB, TA, SQ, TW, BN",
+        "note": "Dành cho người đã biết lập trình cơ bản, nhưng chưa biết TS/JS"
+    },
+    {
+        "id": 7,
+        "code": "B3",
+        "name": "Back-end Engineering nâng cao",
+        "subject_list": "TW, BN",
+        "note": "Dành cho người đã biết database cơ bản và lập trình cơ bản với TS/JS"
+    },
+    {
+        "id": 8,
+        "code": "Z1",
+        "name": "Full-stack Engineering dành cho người mới bắt đầu",
+        "subject_list": "PB, TB, TA, FB, SQ, TW, FR, BN",
+        "note": "Dành cho người mới bắt đầu và muốn làm được cả Front-end và Back-end"
+    },
+    {
+        "id": 9,
+        "code": "Z2",
+        "name": "Full-stack Engineering toàn tập",
+        "subject_list": "TB, TA, FB, SQ, TW, FR, BN",
+        "note": "Dành cho người đã biết lập trình cơ bản, nhưng chưa biết TS/JS"
+    },
+    {
+        "id": 10,
+        "code": "D1",
+        "name": "Data Analysis dành cho người mới bắt đầu",
+        "subject_list": "DB, SQ, PB, PA, DP, DA",
+        "note": "Dành cho người chưa có căn bản về lập trình"
+    },
+    {
+        "id": 11,
+        "code": "D2",
+        "name": "Data Analysis cơ bản",
+        "subject_list": "DB, SQ",
+        "note": "Dành cho người muốn học kiến thức cơ bản nhất về phân tích dữ liệu"
+    },
+    {
+        "id": 12,
+        "code": "D3",
+        "name": "Data Analysis nâng cao",
+        "subject_list": "PB, PA, DP, DA",
+        "note": "Dành cho người đã có kiến thức cơ bản về phân tích dữ liệu"
+    }
+]
