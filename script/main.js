@@ -2,7 +2,7 @@ import subjects from "../data/subjects.json" assert { type: "json" };
 import roadmaps from "../data/roadmaps.json" assert { type: "json" };
 
 const discount1 = 10;
-const discount2 = 27;
+const discount2 = 21;
 
 subjects.forEach((element) => {
   element.tuition -= (discount1 / 100) * element.tuition;
