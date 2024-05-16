@@ -2,7 +2,7 @@ import subjects from "../data/subjects.json" assert { type: "json" };
 import roadmaps from "../data/roadmaps.json" assert { type: "json" };
 
 const discount1 = 10;
-const discount2 = 21;
+const discount2 = 18;
 
 subjects.forEach((element) => {
   element.tuition -= (discount1 / 100) * element.tuition;
@@ -114,7 +114,7 @@ function renderRoadmaps() {
     divSummary.innerHTML =
       "<p>- Tổng thời lượng: <strong>" +
       weeks +
-      "</strong></p>" +
+      " tuần </strong></p>" +
       "<p>- Học phí gốc: <strong>" +
       numberWithCommas(tuition) +
       "</strong></p>" +
